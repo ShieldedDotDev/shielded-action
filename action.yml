@@ -1,0 +1,17 @@
+name: 'Shielded.dev Badge Action'
+description: 'Update a badge on Shielded.dev'
+inputs:
+  shielded-token:
+    description: 'Shielded.dev API token'
+    required: true
+  title:
+    description: 'Badge title'
+  color:
+    description: 'Badge color'
+  text:
+    description: 'Badge text'
+  endpoint:
+    description: 'Custom Shielded API endpoint'
+runs:
+  using: 'node16'
+  main: 'dist/index.js'
