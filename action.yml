@@ -1,5 +1,5 @@
 name: 'Shielded.dev Badge Action'
-description: 'Update a badge on Shielded.dev'
+description: 'Update a badge on Shielded.dev - the free README badge hosting service.'
 inputs:
   shielded-token:
     description: 'Shielded.dev API token'
