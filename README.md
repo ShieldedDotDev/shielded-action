@@ -1,5 +1,7 @@
 # shielded-action
 
+[Shielded.dev](https://shielded.dev) is a free service that allows you to create custom shields for your projects. This action allows you to update the status of a shield on [Shielded.dev](https://shielded.dev) from your GitHub Actions workflow.
+
 This action updates a badge on [Shielded.dev](https://shielded.dev) with the latest status of your project as specified in the action's inputs.
 
 ## Usage
