@@ -10,7 +10,7 @@
     "shielded-cli": "^0.2.0"
   },
   "devDependencies": {
-    "@vercel/ncc": "^0.36.1"
+    "@vercel/ncc": "^0.38.0"
   },
   "scripts": {
     "build": "npx ncc build index.js -o dist --license licenses.txt"
