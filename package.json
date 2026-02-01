@@ -6,7 +6,7 @@
   "author": "Jesse Donat <donatj@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "@actions/core": "^1.11.1",
+    "@actions/core": "^3.0.0",
     "shielded-cli": "^0.2.0"
   },
   "devDependencies": {
