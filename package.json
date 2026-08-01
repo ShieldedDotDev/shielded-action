@@ -10,7 +10,7 @@
     "shielded-cli": "^0.3.0"
   },
   "devDependencies": {
-    "@types/node": "^24.0.0",
+    "@types/node": "^26.1.2",
     "@vercel/ncc": "^0.44.1",
     "typescript": "^5.9.3"
   },
